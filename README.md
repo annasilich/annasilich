@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annasilich
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, Vue.js, Node.js
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, Vue.js
 - 📫 How to reach me 
 silich.anna.ev@gmail.com
 
